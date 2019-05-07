@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>1200px-Halictus_scabiosae_MHNT.jpg</filename>
+	<path>/home/balta/Desktop/Images/1200px-Halictus_scabiosae_MHNT.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>907</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>64</ymin>
+			<xmax>1155</xmax>
+			<ymax>817</ymax>
+		</bndbox>
+	</object>
+</annotation>

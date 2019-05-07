@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>worker-bee-250.jpg</filename>
+	<path>/home/balta/Desktop/Images/worker-bee-250.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>179</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>56</ymin>
+			<xmax>188</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>

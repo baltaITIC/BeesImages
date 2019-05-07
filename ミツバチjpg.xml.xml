@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>ミツバチjpg.jpg</filename>
+	<path>/home/balta/Desktop/Images/ミツバチjpg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>452</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>4</ymin>
+			<xmax>592</xmax>
+			<ymax>447</ymax>
+		</bndbox>
+	</object>
+</annotation>

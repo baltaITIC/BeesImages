@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>GettyImages-200415242-001-56a520325f9b58b7d0daf222.jpg</filename>
+	<path>/home/balta/Desktop/Images/GettyImages-200415242-001-56a520325f9b58b7d0daf222.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>606</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>232</ymin>
+			<xmax>622</xmax>
+			<ymax>532</ymax>
+		</bndbox>
+	</object>
+</annotation>

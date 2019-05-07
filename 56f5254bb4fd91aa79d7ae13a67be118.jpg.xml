@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>56f5254bb4fd91aa79d7ae13a67be118.jpg.gif</filename>
+	<path>/home/balta/Desktop/Images/56f5254bb4fd91aa79d7ae13a67be118.jpg.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>715</width>
+		<height>510</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>88</ymin>
+			<xmax>579</xmax>
+			<ymax>481</ymax>
+		</bndbox>
+	</object>
+</annotation>

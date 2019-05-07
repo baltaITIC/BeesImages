@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>e9d9e120-4046-4b62-a9dc-260ebde8e9fc_bij bloem_63c48be4_490x330.jpg</filename>
+	<path>/home/balta/Desktop/Images/e9d9e120-4046-4b62-a9dc-260ebde8e9fc_bij bloem_63c48be4_490x330.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>490</width>
+		<height>330</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>54</ymin>
+			<xmax>428</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>

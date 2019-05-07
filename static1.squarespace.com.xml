@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>static1.squarespace.com.jpeg</filename>
+	<path>/home/balta/Desktop/Images/static1.squarespace.com.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1469</width>
+		<height>1276</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>447</xmin>
+			<ymin>308</ymin>
+			<xmax>778</xmax>
+			<ymax>608</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>aa-2273-bee.jpg</filename>
+	<path>/home/balta/Desktop/Images/aa-2273-bee.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>27</ymin>
+			<xmax>320</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>76f430e3-db80-4126-b032-f4f0e01bddcb_honingbij-op-kamille-(1)_67425c0e_674x362.jpg</filename>
+	<path>/home/balta/Desktop/Images/76f430e3-db80-4126-b032-f4f0e01bddcb_honingbij-op-kamille-(1)_67425c0e_674x362.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>674</width>
+		<height>362</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>9</ymin>
+			<xmax>369</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>

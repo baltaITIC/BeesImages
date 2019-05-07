@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>concentrado-p-preparo-feromonio-captura-abelhas-europa-4-l-D_NQ_NP_472201-MLB20288554099_042015-F.jpg</filename>
+	<path>/home/balta/Desktop/Images/concentrado-p-preparo-feromonio-captura-abelhas-europa-4-l-D_NQ_NP_472201-MLB20288554099_042015-F.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>76</ymin>
+			<xmax>480</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>
